@@ -1,0 +1,11 @@
+node_modules/
+.DS_Store
+*.log
+.env
+.env.local
+functions/node_modules/
+functions/lib/
+RelationshipIQiOS/ios/Pods/
+RelationshipIQiOS/ios/build/
+RelationshipIQiOS/android/app/build/
+RelationshipIQiOS/android/.gradle/
