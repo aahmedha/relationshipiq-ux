@@ -9,3 +9,6 @@ RelationshipIQiOS/ios/Pods/
 RelationshipIQiOS/ios/build/
 RelationshipIQiOS/android/app/build/
 RelationshipIQiOS/android/.gradle/
+
+# Local Netlify folder
+.netlify
